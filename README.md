@@ -15,22 +15,65 @@
 
 ### Exemplo de somatório de padrão
 
-"""
-Existindo um padrão 2D de um Array6x6, arr:
-1 1 1 0 0 0
-0 1 0 0 0 0
-1 1 1 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
+
+
+## Existindo um padrão 2D de um Array6x6, arr:
+
+        1 1 1 0 0 0
+        0 1 0 0 0 0
+        1 1 1 0 0 0
+        0 0 0 0 0 0
+        0 0 0 0 0 0
+        0 0 0 0 0 0
+
 
 Definimos uma ampulheta 'A' para ser um subconjunto de valores com índices
 caindo neste padrão na representação gráfica 'arr':
 
-a b c
-  d
-e f g
-Ou seja, em formato de ampulheta
+          a b c
+            d
+          e f g
+
+Ou seja, em formato de ampulheta      
+
+Desta forma, para uma matriz 6X6 existem 16 ampulhetas. Uma soma de ampulheta é a soma dos valores existentes nesse conjunto. 
+
+Considerando a seguinte matriz:
+
+      1 1 1 0 0 0
+      0 1 0 0 0 0
+      1 1 1 0 0 0
+      0 0 2 4 4 0
+      0 0 0 2 0 0
+      0 0 1 2 4 0
+
+As combinações possíveis são
+
+
+
+Calcule a soma da ampulheta para cada ampulheta em e imprima a soma máxima da ampulheta. A matriz será sempre
+
+        ModelagemProduto.py
+
+![Screenshot](/venv/img/produto.png) 
+
+Para rodar o programa de modelagem da tabela Estabelecimento e precos rode o arquivo:
+
+        ModelagemEstabelecimento.py
+
+Ao final, serão gerados 3 arquivos na pasta temporaria tmp
+
+![Screenshot](/venv/img/estabelecimentos.png) 
+
+
+
+"""
+
+
+
+
+
+
 
 Function Description
 It should return an integer, the maximum hourglass sum in the array.
