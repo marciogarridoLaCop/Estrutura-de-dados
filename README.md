@@ -54,7 +54,7 @@ As combinações possíveis são:
 
 ![Screenshot](/ampulhetamaior.png) 
 
-A partir do exemplo citado, podemos verificar que o conjunto em evidência é o que possui maior valor ao somar seu conteudo.
+A partir do exemplo citado, podemos verificar que o conjunto em evidência, é o que possui maior valor ao somar seu conteudo.
 Sendo assim, a ampulheta de maior valor é igual a 19
 
         2 4 4
