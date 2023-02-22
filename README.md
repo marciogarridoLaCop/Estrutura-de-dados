@@ -49,7 +49,7 @@ Considerando a seguinte matriz:
 
 As combinações possíveis são
 
-![Screenshot](/ampulheta maior.png) 
+![Screenshot](/ampulhetamaior.png) 
 
 Calcule a soma da ampulheta para cada ampulheta em e imprima a soma máxima da ampulheta. A matriz será sempre
 
