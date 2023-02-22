@@ -7,4 +7,8 @@
 
 ## Estrutura-de-dados
 
+
+
 # Exemplo de complexidade de algoritimos utilizando a sequência de Fibonacci
+
+# Exemplo de somatório de padrão
