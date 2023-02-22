@@ -9,15 +9,18 @@
 
 
 
-### Exemplo de complexidade de algoritimos utilizando a sequência de Fibonacci
+## Exemplo de complexidade de algoritimos utilizando a sequência de Fibonacci
+
+A sequência de Fibonacci é uma série de números que começa com 0 e 1, e a partir do terceiro termo, cada número é a soma dos dois termos anteriores. Em outras palavras, os primeiros termos da sequência são:
+
+0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ...
+
+Nos exemplos do repositório é possível verificar que soluções distintas que apresentam o mesmo resultado, possuem um custo computacional bem diferenciado.
 
 
+## Exemplo de somatório de um array
 
-### Exemplo de somatório de padrão
-
-
-
-## Existindo um padrão 2D de um Array6x6, arr:
+### Existindo um padrão 2D de um Array6x6, arr:
 
         1 1 1 0 0 0
         0 1 0 0 0 0
