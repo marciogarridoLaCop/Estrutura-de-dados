@@ -20,7 +20,7 @@ Nos exemplos do repositório é possível verificar que soluções distintas, ai
 
 ## Exemplo de somatório de um array
 
-### Existindo um padrão 2D de um Array6x6, arr:
+### Existindo um padrão 2D de um Array 6x6, arr:
 
         1 1 1 0 0 0
         0 1 0 0 0 0
