@@ -15,7 +15,7 @@ A sequência de Fibonacci é uma série de números que começa com 0 e 1, e a p
 
 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ...
 
-Nos exemplos do repositório é possível verificar que soluções distintas que apresentam o mesmo resultado, possuem um custo computacional bem diferenciado.
+Nos exemplos do repositório é possível verificar que soluções distintas, ainda que apresentam o mesmo resultado, possuem um custo computacional bem diferenciado.
 
 
 ## Exemplo de somatório de um array
