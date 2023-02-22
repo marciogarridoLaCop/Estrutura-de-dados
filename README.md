@@ -49,13 +49,13 @@ Considerando a seguinte matriz:
 
 As combinações possíveis são
 
-
+![Screenshot](/ampulheta maior.png) 
 
 Calcule a soma da ampulheta para cada ampulheta em e imprima a soma máxima da ampulheta. A matriz será sempre
 
         ModelagemProduto.py
 
-![Screenshot](/venv/img/produto.png) 
+
 
 Para rodar o programa de modelagem da tabela Estabelecimento e precos rode o arquivo:
 
