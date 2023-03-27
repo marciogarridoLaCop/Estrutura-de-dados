@@ -1,0 +1,17 @@
+from pilha import Stack
+MinhaPilha = Stack()
+
+ENTRADA= str(input('Digite o modelo matemático: '))
+for mod1 in ENTRADA:
+    if mod1 == '(':
+        MinhaPilha.push("(")
+    elif mod1 == ')':
+        if (MinhaPilha.size() > 0):
+            MinhaPilha.pop()
+        else:
+            MinhaPilha.push(")")
+            break
+if MinhaPilha.size() == 0:
+    print('O modelo matemático esta correto')
+else:
+    print('O modelo matemático possui erro')
