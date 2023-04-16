@@ -1,3 +1,4 @@
+# Classe modificada.
 # Implementação de uma pilha com as alterações dos exercícios propostos
 """""
 enqueue - inclui elementos na fila
