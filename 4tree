@@ -1,0 +1,36 @@
+   
+# Árvore 1:
+#     C
+#    / \
+#   A   B
+#  /   / \
+# D   E   F
+
+# Árvore 2:
+#       A
+#     /   \
+#    C     B
+#   / \   / \
+#  D   E F   G
+#     / /
+#    H I
+
+# Árvore 3:
+#       A
+#     /   \
+#    C     B
+#   / \   / \
+#  D   E F   G
+# /   / / \
+#J   H I   K
+
+# Árvore 4:
+#       A
+#     /   \
+#    B     C
+#   / \   / \
+#  D   E G   F
+# /   / /     \
+#J   H  I      K
+# \      \      \
+#  L     ""      '
